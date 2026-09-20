@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.bak
+public/*.png
+public/runs/
+ngrok.zip
+ngrok.exe
+*.log
